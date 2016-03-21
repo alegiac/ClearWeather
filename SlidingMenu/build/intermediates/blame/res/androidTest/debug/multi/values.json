@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/alessandro.giacomell/Downloads/main_file_v4/ClearWeather/SlidingMenu/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 961,
+                    "endColumn": 42,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "/Users/alessandro.giacomell/Downloads/main_file_v4/ClearWeather/SlidingMenu/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 961,
+                        "endColumn": 42,
+                        "endOffset": 999
+                    }
+                }
+            }
+        ]
+    }
+]
